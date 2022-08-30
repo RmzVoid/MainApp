@@ -2,4 +2,4 @@
 
 #include <string>
 
-const std::string g_lib_version = "release/020/00/000";
+const std::string g_lib_version = "release/020/00/001";
